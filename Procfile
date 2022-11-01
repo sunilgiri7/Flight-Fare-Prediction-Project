@@ -1,1 +1,1 @@
-web: gunicorn Flight-Fare-Prediction_Project.app:fare_predict
+web: gunicorn app:app
